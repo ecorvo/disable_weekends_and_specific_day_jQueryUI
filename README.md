@@ -1,4 +1,4 @@
-disable_weekends_and_specific_day_jQueryUI
+Disable Weekends and Specific days
 ==========================================
 
 Simple script to disable weekends and specific days from the date-picker in jQuery UI
